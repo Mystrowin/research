@@ -1,6 +1,6 @@
-﻿# Mystrowin Research
+﻿# Mystroquiry
 
-Static research landing page for `research.mystrowin.com`. Built with plain HTML and CSS; no build step or runtime dependencies.
+Research site by Mystrowin, published at `research.mystrowin.com`. Built with plain HTML and CSS; no build step or runtime dependencies.
 
 ## Preview
 
